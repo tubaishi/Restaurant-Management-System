@@ -1,0 +1,19 @@
+<info>
+	<details>
+		<uname>admin</uname>
+		<pass>admin</pass>
+		<type>admin</type>
+		
+	</details>
+	<details>
+		<uname>user</uname>
+		<pass>user</pass>
+		<type>user</type>
+	</details>
+	<details>
+		<uname>employee</uname>
+		<pass>employee</pass>
+		<type>employee</type>
+	</details>
+	
+</info>
